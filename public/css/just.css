@@ -1,0 +1,41 @@
+.back {
+    max-width: 100%;
+    position: fixed;
+    z-index: -99999;
+}
+
+.logo1 {
+    max-width: 18%;
+}
+
+#textarta {
+    position: static;
+    top: 35px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    margin-left: 3%;
+}
+
+.hometext {
+    padding-right: 30%;
+    font-size: 25px;
+}
+
+.buttonhome {
+    position: absolute;
+    width: 263px;
+    height: 58px;
+    top: 612px;
+    background: linear-gradient(93.66deg, #EE3137 2.54%, #B00A10 104.05%);
+    box-shadow: 4px 4px 8px 4px rgba(255, 255, 255, 0.3);
+    border-radius: 101px;
+    position: absolute;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 31px;
+    border: 0;
+}
